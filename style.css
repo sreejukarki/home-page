@@ -1,0 +1,126 @@
+.navbar{
+    background-color: rgb(57, 5, 5);
+    border-radius: 50px 50px;
+}
+.navbar ul{
+    overflow:auto;
+    border-radius: 30px;
+    
+   
+}
+body{
+    background-color: darkkhaki;
+}
+.navbar li
+{
+    float: right;
+    list-style: none;
+    margin: 13px 20px;
+}
+.navbar li a{
+    text-align: center;
+    padding: 13px 20px;
+    text-decoration: none;
+    color: antiquewhite;
+    cursor: pointer;
+}
+
+.navbar h1{
+    float: left;
+    list-style: none;
+    margin:11px 15px;
+    color: antiquewhite;
+   
+}
+.pages{
+    margin-top: 6%;
+    text-align: center;
+    text-size-adjust: 500;
+
+}
+.login{
+    
+        width: 50%;
+        margin-left : 40%
+    
+    
+}
+.login{
+    margin-top: 2%;
+}
+#user{
+    border-radius: 50px 50px;
+    width: 70px 70px;
+    height:20%
+    
+
+}
+#user
+{
+
+border-width:20px 20px;
+}
+
+
+#password1
+{
+    border-radius: 50px 50px;
+    width: 70px 70px;
+    height:20%
+}
+#password1
+{
+    border-width:20px 20px;
+}
+#submit
+{
+    margin: center;
+    background-color: darkgreen;
+    
+    width:10%;
+    margin-left :15%
+}
+
+.student-details{
+display: flex;
+justify-content: space-evenly;
+width: 50%;
+margin-left: 400px;
+margin-top: 20px;
+border: 1px solid rgb(8, 8, 8);
+}
+.container{
+
+display: flex;
+padding-left:20px ;
+}
+
+.category span{
+    display: block;
+    padding: 10px;
+
+}
+.category1 span{
+    display: block;
+    padding: 10px;
+}
+.tall{
+    color: #727272;
+}
+#student{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 10px
+}
+.he{
+    font-weight: bolder;
+
+}
+.garp{
+    display: flex;
+
+}
+ .background
+ {
+    background-image: url('sreeju.jpg');
+ }
